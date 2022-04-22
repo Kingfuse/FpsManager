@@ -1,6 +1,3 @@
-[![Toolbox](https://img.shields.io/badge/Tera--Toolbox-latest-blueviolet)](https://github.com/tera-toolbox) ![](https://api.dependabot.com/badges/status?host=github&repo=SaltyMonkey/fps-manager) ![](https://github.com/SaltyMonkey/fps-manager/workflows/CI/badge.svg) ![](https://img.shields.io/github/license/SaltyMonkey/fps-manager)
-
-# Current state: second beta version
 
 # FPS Manager
 
